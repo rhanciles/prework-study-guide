@@ -18,7 +18,7 @@ The prework course covers 4 main topics which are highlighted on this website. I
 
 ## Credits
 
-All credits to the developers and the Prework Studio.
+All credits to the developers at the Prework Studio.
 
 
 ## License
