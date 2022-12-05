@@ -3,7 +3,7 @@
 
 ## Description
 
-This website contains a study guide created for the Boot Camp Prework course. Upon commencement, this is the first course that the students will embark on: It was designed with the student in mind, to help them easily and effectively navigate their way through the program.
+This website contains a study guide created for the Boot Camp Prework course. Upon commencement, this is the first course that the students will embark on: Hence it was designed with the student in mind, to help them easily and effectively navigate their way through the program.
 
 
 ## Installation
